@@ -4,7 +4,7 @@ Aplikacja stworzona na potrzeby `WarsawJS Workshop #2` (Prework).
 
 <img src="https://warsawjs.com/static/images/logos/logo-warsawjs.svg" width="400" alt=""/>
 
-## Demo :tada:
+## Demo 🎉
 
 Dostępne jest tutaj: <https://piecioshka.github.io/warsawjs-workshop-prework-printer/public/>
 

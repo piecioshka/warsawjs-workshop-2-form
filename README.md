@@ -4,10 +4,7 @@
 
 ## Demo 🎉
 
-<https://piecioshka.github.io/workshop-javascript-prework-printer/public/>
-
-**Pamiętaj, aby nie zaglądać do źródła, tylko samemu spróbować swoich sił
-i stworzyć taką aplikację** :smile:
+<https://piecioshka.github.io/workshop-javascript-prework-printer/>
 
 ## Zadanie pt. Drukarka
 

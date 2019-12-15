@@ -1,12 +1,10 @@
-# warsawjs-workshop-prework-printer
+# workshop-javascript-prework-printer
 
-Aplikacja stworzona na potrzeby `WarsawJS Workshop #2` (Prework).
-
-<img src="https://warsawjs.com/static/images/logos/logo-warsawjs.svg" width="400" alt=""/>
+💾 Workshop prework project — JavaScript (Podstawy programowania)
 
 ## Demo 🎉
 
-Dostępne jest tutaj: <https://piecioshka.github.io/warsawjs-workshop-prework-printer/public/>
+<https://piecioshka.github.io/workshop-javascript-prework-printer/public/>
 
 **Pamiętaj, aby nie zaglądać do źródła, tylko samemu spróbować swoich sił
 i stworzyć taką aplikację** :smile:
@@ -19,7 +17,7 @@ wyświetla w innym miejscu.
 
 ## Krok po kroku 👣
 
-1. Stwórz katalog `warsawjs-workshop-prework-printer`.
+1. Stwórz katalog `workshop-javascript-prework-printer`.
 2. Wewnątrz katalogu stwórz pliki `index.html` oraz `scripts/main.js`.
 3. Trzeba zrobić formularz w HTMLu z dwoma dowolnymi polami.
     Do wykorzystania znaczniki `input` lub `textarea`.

@@ -1,6 +1,6 @@
 # workshop-javascript-prework-printer
 
-💾 Workshop prework project — JavaScript (Podstawy programowania)
+💾 Workshop prework project — JavaScript (Basic Level)
 
 ## Demo 🎉
 
